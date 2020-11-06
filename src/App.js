@@ -1,12 +1,14 @@
 import './App.css';
+import React from "react";
+import ColorBox from "./box";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-      <h1>Thu Pham React JS Basic</h1>
-      </header>
-    </div>
+    <section>
+      <ColorBox color="red"></ColorBox>
+      <ColorBox color="green"></ColorBox>
+      <ColorBox color="blue"></ColorBox>
+    </section>
   );
 }
 
