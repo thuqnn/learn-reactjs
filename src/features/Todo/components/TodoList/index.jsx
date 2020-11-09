@@ -1,7 +1,7 @@
 import React from 'react';
 
-function index(props) {
+function TodoList(props) {
   return <div></div>;
 }
 
-export default index;
+export default TodoList;
