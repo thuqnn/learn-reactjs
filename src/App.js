@@ -1,6 +1,6 @@
 import './App.css';
-import React from "react";
-import ColorBox from "./box";
+import React from 'react';
+import ColorBox from './box';
 
 function App() {
   return (
@@ -13,3 +13,4 @@ function App() {
 }
 
 export default App;
+//CONTAINER (DATA)
